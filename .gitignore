@@ -1,0 +1,14 @@
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+資料視覺化分析專案說明.pdf
+專案簡介封面.jpg
+專案報告.ai
+
+.DS_Store
+db.sqlite3
+__pycache__/
+*.ipynb  
+webdriver
